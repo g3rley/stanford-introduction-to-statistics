@@ -1,4 +1,4 @@
-# Stanford - Introduction to Statistics
+# Stanford Online
 
 ## Introduction to Statistics
 
